@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HLIII
+- 👋 Hi, I’m @eeminteriv
 - 👀 I’m interested in ... Java, C++, and C# programming
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Python / Django
 - 📫 How to reach me ... edwardminteriv at gmail.com
 
 <!---
